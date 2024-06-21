@@ -1,0 +1,52 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Aanimes[/COLOR][/B]</name>
+   <thumbnail>https://ia902707.us.archive.org/28/items/icon-animes/icon%20Animes.png</thumbnail>
+   <externallink></externallink>
+   <fanart>https://archive.org/download/fanartANIMES/fanartANIMES.jpg</fanart>
+  <info>Descubra o melhor dos animes com o BoxStream. Acesse uma vasta biblioteca de animes, organizados em categorias para facilitar sua navegação. Desfrute de streaming de alta qualidade, atualizações frequentes e novos episódios adicionados regularmente. BoxStream, a paixão pelos animes é aqui!</info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Lile TV[/COLOR][/B]</name>
+   <thumbnail>https://ia800407.us.archive.org/21/items/ico-tv/ico%20tv.png</thumbnail>
+   <externallink></externallink>
+   <fanart>https://ia803405.us.archive.org/12/items/fanart-tv/fanart%20TV.jpg</fanart>
+  <info>Assistir a canais de TV aberta online também oferece a vantagem de poder assistir a programas ao vivo de qualquer lugar do mundo, desde que haja uma conexão de internet estável disponível. Além disso, muitos canais oferecem a opção de assistir a episódios de programas já exibidos, permitindo que os espectadores assistam a programas que perderam quando foram ao ar originalmente.</info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Filmes[/COLOR][/B]</name>
+   <thumbnail>https://ia802705.us.archive.org/8/items/icon-fimes/icon%20fimes.png</thumbnail>
+   <externallink>#</externallink>
+   <fanart>https://ia800400.us.archive.org/3/items/fanart-filmes_202406/fanart%20Filmes.jpg</fanart>
+  <info>Assistir filmes online se tornou uma das formas mais populares de entretenimento na era digital. Com a facilidade de acesso à internet, é possível encontrar uma grande variedade de filmes de diferentes gêneros e épocas, desde clássicos até lançamentos recentes.</info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Séries[/COLOR][/B]</name>
+   <thumbnail>https://ia800400.us.archive.org/26/items/icon-series/icon%20s%C3%A9ries.png</thumbnail>
+   <externallink></externallink>
+   <fanart>https://ia804501.us.archive.org/27/items/fanart-series_202406/fanart%20series.jpg</fanart>
+  <info>Assistir séries online é uma maneira cada vez mais popular de entretenimento. Com a possibilidade de ter acesso a uma grande variedade de títulos, muitas vezes em diferentes idiomas e de diferentes partes do mundo, é possível encontrar conteúdo para todos os gostos. Desde as séries mais populares até aquelas mais nichadas, as plataformas de streaming oferecem um vasto catálogo de opções.</info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Kids[/COLOR][/B]</name>
+   <thumbnail>https://ia903203.us.archive.org/10/items/icon-kids/icon%20kids.png</thumbnail>
+   <externallink></externallink>
+   <fanart>https://ia804501.us.archive.org/24/items/fanartkids_202406/fanartKIDS.jpg</fanart>
+  <info>Transforme a diversão das crianças com o BoxStream. Acesse uma vasta coleção de desenhos animados, organizados em categorias para facilitar a navegação. Com streaming de alta qualidade e atualizações frequentes, sempre haverá algo novo para assistir. </info>
+</channel>
+#
+<channel>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Documentarios[/COLOR][/B]</name>
+   <thumbnail>https://ia903405.us.archive.org/27/items/icon-documentarios/icon%20Documentarios.png</thumbnail>
+   <externallink></externallink>
+   <fanart>https://archive.org/download/fanartDOCUMENTARIOS/fanartDOCUMENTARIOS.jpg</fanart>
+  <info>Explore o mundo do conhecimento com o BoxStream. Tenha acesso a documentários sobre diversos temas, desde história e ciência até natureza e cultura. Com streaming de alta qualidade e conteúdo atualizado regularmente, sempre haverá algo novo e interessante para assistir. </info>
+</channel>
+
+</channels>
