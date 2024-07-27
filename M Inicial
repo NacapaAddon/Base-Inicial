@@ -1,6 +1,7 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+
 <channel>
   <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Animes[/COLOR][/B]</name>
    <thumbnail>https://ia902707.us.archive.org/28/items/icon-animes/icon%20Animes.png</thumbnail>
@@ -24,7 +25,7 @@
    <fanart>https://ia800400.us.archive.org/3/items/fanart-filmes_202406/fanart%20Filmes.jpg</fanart>
   <info>Assistir filmes online se tornou uma das formas mais populares de entretenimento na era digital. Com a facilidade de acesso à internet, é possível encontrar uma grande variedade de filmes de diferentes gêneros e épocas, desde clássicos até lançamentos recentes.</info>
 </channel>
-#
+#################
 <channel>
   <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Séries[/COLOR][/B]</name>
    <thumbnail>https://ia800400.us.archive.org/26/items/icon-series/icon%20s%C3%A9ries.png</thumbnail>
@@ -42,11 +43,12 @@
 </channel>
 #
 <channel>
-  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Documentarios[/COLOR][/B]</name>
+  <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Documentários[/COLOR][/B]</name>
    <thumbnail>https://ia903405.us.archive.org/27/items/icon-documentarios/icon%20Documentarios.png</thumbnail>
    <externallink></externallink>
    <fanart>https://archive.org/download/fanartDOCUMENTARIOS/fanartDOCUMENTARIOS.jpg</fanart>
   <info>Explore o mundo do conhecimento com o BoxStream. Tenha acesso a documentários sobre diversos temas, desde história e ciência até natureza e cultura. Com streaming de alta qualidade e conteúdo atualizado regularmente, sempre haverá algo novo e interessante para assistir. </info>
 </channel>
+
 
 </channels>
